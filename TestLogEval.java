@@ -6,7 +6,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.Timeout;
 
-public class Test_LogEval {
+public class TestLogEval {
 
 	//想定処理時間のチェック
 	@Rule
