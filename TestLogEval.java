@@ -12,7 +12,7 @@ public class Test_LogEval {
 	@Rule
 	public Timeout globalTimeout = Timeout.seconds(1);
 	
-	//logLevelDebugメソッドのテスト
+	//logLevelDebugメソッドのテスト1
 	//目的：値チェック
 	//assertEqualsの引数①に想定値を入力し、テストを行ってください。
 	@Test
