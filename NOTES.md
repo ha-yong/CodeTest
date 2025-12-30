@@ -100,3 +100,9 @@ int index = Arrays.binarySearch(arr, key);
 | Example       | `long l = 12345678900L;` | `int i = 1234;` |
 
 ---
+
+## Meeting Rooms II ✅
+
+TreeMap + max update pattern master!
+
+---
