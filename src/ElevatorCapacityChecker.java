@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Test6 {
+public class ElevatorCapacityChecker {
 
     public static boolean canCompleteRequests(int[][] requests, int capacity) {
         // TreeMap<Floor, WeightChange>

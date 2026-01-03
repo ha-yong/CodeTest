@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Test7 {
+public class MeetingRoomsOptimizer {
 
     public static int minMeetingRooms(int[][] intervals) {
         // TODO: Sweep Line으로 해결!

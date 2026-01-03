@@ -1,5 +1,5 @@
 
-public class Test4 {
+public class KnapsackOptimizer {
 
     public static void main(String[] args) {
         int[][] items = {{1, 6}, {2, 10}, {3, 12}};

@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Test1 {
+public class CarpoolCapacityChecker {
 
     public static boolean canAccommodate(int[][] passengers, int n) {
         Map<Integer, Integer> changes = new TreeMap<>();

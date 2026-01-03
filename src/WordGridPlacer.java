@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Test2 {
+public class WordGridPlacer {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

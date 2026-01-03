@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class Test5 {
+public class CoinChangeMinimizier {
 
     public static void main(String[] args) {
         int[] coins = {1, 2, 5, 10};
